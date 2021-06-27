@@ -29,6 +29,7 @@ class VendingMachine {
         int amount = scanner.nextInt();
         int[] notes = {1000, 500, 100, 50, 10, 5, 2, 1 };
         getRupeeNotesCount(amount, notes);
+
     }
 
 }
